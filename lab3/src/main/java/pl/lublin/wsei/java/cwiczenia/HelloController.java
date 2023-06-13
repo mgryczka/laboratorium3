@@ -1,6 +1,5 @@
 package pl.lublin.wsei.java.cwiczenia;
 
-import javafx.event.ActionEvent;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 
